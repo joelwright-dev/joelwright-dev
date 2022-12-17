@@ -4,7 +4,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joelwright-dev&label=Profile%20views&color=0e75b6&style=flat" alt="joelwright-dev" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelwright-dev&theme=onedark&column=-1&title=MultiLanguage,Joined2020,Commits,Repositories" alt="joelwright-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelwright-dev&theme=darkhub&column=-1&title=MultiLanguage,Joined2020,Commits,Repositories" alt="joelwright-dev" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/joelwrightdev" target="blank"><img src="https://img.shields.io/twitter/follow/joelwrightdev?logo=twitter&style=for-the-badge" alt="joelwrightdev" /></a> </p>
 <h2>What I'm up to:</h2>
@@ -32,10 +32,10 @@
 
 <div style="display:flex; flex-direction: column; align-items: center">
 <div style="display: flex">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joelwright-dev&show_icons=true&locale=en" alt="joelwright-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joelwright-dev&show_icons=true&locale=en&theme=dark" alt="joelwright-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelwright-dev&" alt="joelwright-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelwright-dev&theme=dark" alt="joelwright-dev" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelwright-dev&show_icons=true&locale=en&layout=compact" alt="joelwright-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelwright-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="joelwright-dev" /></p>
 </div>
