@@ -9,15 +9,11 @@
 <p align="center"> <a href="https://twitter.com/joelwrightdev" target="blank"><img src="https://img.shields.io/twitter/follow/joelwrightdev?logo=twitter&style=for-the-badge" alt="joelwrightdev" /></a> </p>
 <h2>What I'm up to:</h2>
 
-- 🔭 I’m currently working on **a Web 3.0 agency**
+- 🔭 I’m currently studing a **bachelor in Engineering / Science at The University of Queensland**
 
-- 🌱 I’m currently learning **Solidity, Next.js, Tailwind CSS**
-
-- 👯 I’m looking to collaborate on **blockchain and full stack projects**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joelwright-dev](https://github.com/joelwright-dev)
-
-- 💬 Ask me about **Next.js, Python, HTML, React.js, blockchain**
 
 - 📫 How to reach me **joelwright005@gmail.com**
 
